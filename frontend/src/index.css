@@ -1,0 +1,21 @@
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Apply some basic styles */
+body {
+  background-color: #f0f0f0;
+}
+
+/* Global styles for links */
+a {
+  color: #007bff; /* Blue link color */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
